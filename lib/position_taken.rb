@@ -1,4 +1,4 @@
-require "pry"
+
 
 def position_taken?(board, index)
   binding.pry
